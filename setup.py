@@ -95,6 +95,6 @@ setup(
     # If using Python 2.6 or earlier, then these have to be included in
     # MANIFEST.in as well.
     package_data={  # Optional
-        'ArXeplusanything': ['Argon_Plus_Anything.h5','Xenon_Plus_Anything.h5'],
+        'ArXePlusAnything': ['Argon_Plus_Anything.h5','Xenon_Plus_Anything.h5'],
     },
 )
