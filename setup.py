@@ -31,7 +31,7 @@ setup(
     # specification here:
     # https://packaging.python.org/specifications/core-metadata/#name
     name='ArXeplusanything',  # Required
-    packages=['ArXeplusanything'],
+    packages=['ArXePlusAnything'],
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
     #
