@@ -1,1 +1,1 @@
-include *.h5
+recursive-include ArXePlusAnything *
