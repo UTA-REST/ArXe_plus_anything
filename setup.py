@@ -93,4 +93,8 @@ setup(
     #
     # If using Python 2.6 or earlier, then these have to be included in
     # MANIFEST.in as well.
+    package_data={  # Optional
+        'APA': ['Argon_Plus_Anything.h5'],
+        'APA': ['Xenon_Plus_Anything.h5'],
+    },
 )
