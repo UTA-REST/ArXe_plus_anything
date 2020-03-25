@@ -1,0 +1,10 @@
+Argon_Plus_Anything.h5
+MANIFEST.in
+README.md
+Xenon_Plus_Anything.h5
+setup.py
+ArXeplusanything.egg-info/PKG-INFO
+ArXeplusanything.egg-info/SOURCES.txt
+ArXeplusanything.egg-info/dependency_links.txt
+ArXeplusanything.egg-info/requires.txt
+ArXeplusanything.egg-info/top_level.txt
