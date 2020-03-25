@@ -73,6 +73,7 @@ setup(
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
     url='https://github.com/UTA-REST/ArXe_plus_anything',  # Optional
 
+    py_modules=["APA","XePA"]
     # Specify which Python versions you support. In contrast to the
     # 'Programming Language' classifiers above, 'pip install' will check this
     # and refuse to install the project if the version does not match. If you
