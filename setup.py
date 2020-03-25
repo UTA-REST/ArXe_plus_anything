@@ -30,7 +30,7 @@ setup(
     # There are some restrictions on what makes a valid project name
     # specification here:
     # https://packaging.python.org/specifications/core-metadata/#name
-    name='ArXe_plus_anything',  # Required
+    name='ArXeplusanything',  # Required
 
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
@@ -93,8 +93,4 @@ setup(
     #
     # If using Python 2.6 or earlier, then these have to be included in
     # MANIFEST.in as well.
-    package_data={  # Optional
-        'APA': ['Argon_Plus_Anything.h5'],
-        'APA': ['Xenon_Plus_Anything.h5'],
-    },
 )
