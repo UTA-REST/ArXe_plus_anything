@@ -87,7 +87,7 @@ setup(
     #
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['tables', 'numpy==1.16.1', 'matplotlib'],  # Optional
+    install_requires=['tables', 'numpy==1.22.0', 'matplotlib'],  # Optional
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.
